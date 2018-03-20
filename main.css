@@ -1,0 +1,181 @@
+
+body{
+	overflow-x: hidden;
+}
+
+.divider{
+
+	background-color: #04c2c9;
+	height: 5px;
+}
+.jumbotron{
+background: url('img/pic3.jpeg') center center no-repeat;
+  background-size: cover;
+  color: white;
+  padding-top: 200px;
+
+}
+
+.jumbotron{
+	height: 904px;
+	margin-bottom: 0px;
+	display: 
+}
+.text-center{
+	font-weight: 300;
+	margin-top: 100px;
+	font-size: 4rem;
+	line-height: 1.1;
+}
+.tc{
+
+	margin-top: 0px;
+	color: #acaaaa;
+	font-size: 43px;
+    font-weight: initial;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.tcc{
+
+	background-color: #f6f9fe;
+}
+.lead{
+
+	padding-top: 30px;
+	font-size: 35px;
+}
+.navbar{
+
+	padding-left: 30%;
+}
+.bar{
+
+	width: 174px;
+	height: 5px;
+	background: #04c2c9;
+	margin: 10px 0px 0px 850px;
+}
+
+.bars{
+	background: #04c2c9;
+	width: 174px;
+	height: 5px;
+	margin-top: 0px;
+}	
+.aps{
+
+	margin-top: 0px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 10%
+;	padding-bottom: 10%;
+	font-size: 30px;
+	background-color: #fff7f7;
+}
+.col-12{
+
+	background-color: #ffffff;
+}
+/* .rw{
+
+	margin-left: 200px;
+	margin-right: 200px; 
+} */
+
+.cmdr{
+
+	padding-left: 150px;
+	padding-right: 50px;
+	padding-bottom: 100px;
+	font-size: 20px;
+}
+.ftc{
+
+	font-size: 35px;
+	margin: 0px;
+	padding-top: 60px;
+	padding-bottom: 10px;
+	color: #ffffff;
+
+}
+.ftc2{
+
+	font-size: 20px;
+	margin: 0px;
+	padding-top: 10px;
+	color: #ffffff;
+
+}
+.fcbg{
+
+	background-color: black;
+	margin: 0px;
+}
+.list-group-item{
+
+	background-color: #000;
+}
+.rfc{
+
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+.h2c{
+
+	color: #cc7200;
+}
+.h2pc{
+
+	color: red;
+}
+.list-group-item{
+
+	font-size: 20px;
+	color: #ffffff;
+}
+.upcp{
+
+	color: #007bff;
+}
+.ffp{
+	margin-top:20px; 
+    padding-bottom: 20px;
+	background-color: #ffffff;
+	font-size: 10px;
+}
+.fpps{
+	padding-top: 16px;
+}
+.gp{
+
+	color: #de5246;
+}
+.qp{
+
+	color: #bc332e;
+}
+.lp{
+
+	color: #0077b5;
+}
+.gtp{
+	color: #171515;
+}
+.fp{
+	color: #4867aa;
+}
+.alicon{
+	font-size: 25px;
+}
+.col-sm-3 {
+    padding-bottom: 70px;
+    padding-top: 50px;
+}
+.gip{
+
+	padding-top: 30px;
+}
